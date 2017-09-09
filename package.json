@@ -1,0 +1,29 @@
+{
+  "name": "tactics",
+  "version": "0.1.0",
+  "description": "some sorta turn based game",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorvusClub/tactics.git"
+  },
+  "author": "Tom Shea <tom@shea.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CorvusClub/tactics/issues"
+  },
+  "homepage": "https://github.com/CorvusClub/tactics#readme",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cli": "^1.4.0",
+    "gulp-typescript": "^3.2.2",
+    "typescript": "^2.5.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
