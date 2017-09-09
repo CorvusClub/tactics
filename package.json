@@ -19,11 +19,15 @@
   "homepage": "https://github.com/CorvusClub/tactics#readme",
   "devDependencies": {
     "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-better-rollup": "^1.1.1",
     "gulp-cli": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.1",
     "gulp-typescript": "^3.2.2",
+    "rollup-plugin-node-resolve": "^3.0.0",
     "typescript": "^2.5.2"
   },
   "dependencies": {
-    "browser-sync": "^2.18.13"
+    "browser-sync": "^2.18.13",
+    "vigur": "^0.1.1"
   }
 }

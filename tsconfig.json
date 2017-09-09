@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "module": "system",
+    "module": "esnext",
     "sourceMap": true,
-    "outDir": "dist"
+    "outDir": "build"
   }
 }
